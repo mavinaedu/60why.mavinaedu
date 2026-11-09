@@ -1,4 +1,3 @@
-﻿# Cloudflare Pages SPA & Funnel Routing Rules - MAVINA EDU
 /gift /index.html 200
 /nhan-ebook /index.html 200
 /flashcards /index.html 200
@@ -24,4 +23,3 @@
 /thu-vien /index.html 200
 /library /index.html 200
 /libary /index.html 200
-/* /index.html 200
